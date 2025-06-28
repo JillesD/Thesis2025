@@ -6,18 +6,18 @@ This repository contains all code used for my bachelor thesis in Econometrics at
 
 The repository is organized into the following folders:
 
-- **`data/`**  
+- **`Data/`**  
   Contains all datasets used throughout the research, including the 48 Industry Portfolios and the 100 Fama-French Sorted Portfolios.
 
-- **`descriptives/`**  
+- **`Descriptives/`**  
   Includes supporting scripts for exploratory and diagnostic analysis:  
   - Condition numbers of covariance and precision matrices  
   - Optimal penalty parameters (λ and ρ) for the graphical elastic net and graphical lasso
 
-- **`replicate/`**  
+- **`Replicate/`**  
   Contains the full replication of Goto and Xu’s methodology across all datasets, including covariance estimation, precision matrix construction, and portfolio performance evaluation.
 
-- **`extensions/`**  
+- **`Extensions/`**  
   Implements novel extensions beyond the original paper:
   - `graphical_elastic_net/`: Code for estimating precision matrices using the graphical elastic net
   - `graphical_horseshoe/`: Code for the Bayesian graphical horseshoe estimator and corresponding backtests
@@ -34,7 +34,7 @@ The goal of this thesis is twofold:
 
 Please cite the original work if using this code for research purposes:
 
-Goto, S., & Xu, Y. (2021). *Improving Mean-Variance Optimization through Shrinkage and Graphical Models*. Journal of Financial Econometrics. [Add DOI or link]
+Goto, S., & Xu, Y. (2021). *Improving Mean-Variance Optimization through Shrinkage and Graphical Models*. Journal of Financial Econometrics.
 
 ---
 
