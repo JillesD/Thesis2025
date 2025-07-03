@@ -15,7 +15,7 @@ The repository is organized into the following folders:
   - Optimal penalty parameters (λ and ρ) for the graphical elastic net and graphical lasso
 
 - **`Replicate/`**  
-  Contains the full replication of Goto and Xu’s methodology across all datasets, including covariance estimation, precision matrix construction, and portfolio performance evaluation.
+  Contains the full replication of Goto and Xu’s methodology across all datasets, including covariance estimation, precision matrix construction, and portfolio performance evaluation. The subfolder likelihood contains the code for the replication of Table 6 in Goto, S., & Xu, Y. (2021). Improving Mean-Variance Optimization through Shrinkage and Graphical Models. Journal of Financial Econometrics.
 
 - **`Extensions/`**  
   Implements novel extensions beyond the original paper:
