@@ -35,8 +35,11 @@ The goal of this thesis is twofold:
 Please cite the original work if using this code for research purposes:
 
 Goto, S., & Xu, Y. (2021). *Improving Mean-Variance Optimization through Shrinkage and Graphical Models*. Journal of Financial Econometrics.
+
 Kovács, S., Ruckstuhl, T., Obrist, H., & Bühlmann, P. (2021, January 6). Graphical Elastic Net and Target Matrices: Fast Algorithms and Software for Sparse Precision Matrix Estimation.
+
 Ledoit, O. and Wolf, M. (2004a). Honey, I shrunk the sample covariance matrix. Journal of Portfolio Management, 30(4):110–119.
+
 Li, Y., Craig, B. A., and Bhadra, A. (2019). The graphical horseshoe estimator for inverse covariance matrices. arXiv preprint arXiv:1707.06661.
 
 ---
